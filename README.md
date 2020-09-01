@@ -10,6 +10,6 @@ It addresses different social characteristics:
 - the general demographics of the sample of people to which the survey is addressed,
 - the visibility and the ability of the participants to self-promote during a specific social event (ex: conference),
 - their visibility and their recognition in the field in general,
-- and the occurrence of unprofessional behaviors in this community.
+- the occurrence of unprofessional behaviors in this community.
 
 This survey was developed and first used at the Spirit of Lyot conference held in 2019 in Tokyo, Japan.
