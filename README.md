@@ -1,5 +1,6 @@
 # socio-demographic-community-survey-in-STEM
 L. Leboulleux, E. Choquet, E. Huby, G. Singh
+
 September 2020
 
 This is a proposition of survey to describe a sub-community in the STEM field. It is of open access and can be used freely.
