@@ -1,5 +1,5 @@
 # socio-demographic-community-survey-in-STEM
-L. Leboulleux, E. Choquet, E. Huby, G. Singh
+L. Leboulleux, E. Choquet, E. Huby, G. Singh, F. Cantalloube
 
 September 2020
 
